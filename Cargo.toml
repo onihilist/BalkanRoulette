@@ -1,7 +1,11 @@
 [package]
 name = "BalkanRoulette"
 version = "0.1.0"
+<<<<<<< HEAD
+edition = "2018"
+=======
 edition = "2021"
+>>>>>>> 0e34cea7993ea588f7e9cc267844f677be6365f3
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

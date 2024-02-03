@@ -1,0 +1,10 @@
+======= TODO ASAP =======
+
+    1. In the event_shot the event can't know when the number of ammo is 0
+    2. The Player & Dealer health can go w/ negative sign.
+    3. Move the condition in main for the round into the event 'event_shot'
+    4. Move the condition for checking health into player/dealer class
+    5. Make the dealer play
+    6. Make the func 'event_shot' shorter w/out repeat
+    7. Check IDD into event_shot but find a solution for transfer this information.
+    8. Split the 'event_shot' and make func for checking ammo_data, player/dealer_data
