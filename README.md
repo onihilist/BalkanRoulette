@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![Logo](https://media.discordapp.net/attachments/922469880568119326/1202906798646886440/BalkanRoulette.png?ex=65cf2941&is=65bcb441&hm=9a66bef67f9ddd639250c97bd460d84013ad2bbb52734446f2bd6c87f6adb143&=&format=webp&quality=lossless)
 
 
@@ -69,9 +68,3 @@ Install the project w/ the package registry Cargo for Rust :
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣇⠀⢸⡆⠀⠀⠀⠀⠀⣠⡇⠀⠁⢸⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⢺⣏⣿⣿⣿⣿⣿⣿⣷⣶⣶⣾⣿⣇⣀⣠⡞⠀⠀⠀
 ```
-    
-=======
-# BalkanRoulette
-BalkanRoulette is a game in Rust based on the game of RussianRoulette but not w/ the same rules.
-(The game is not really working at this point)
->>>>>>> 0e34cea7993ea588f7e9cc267844f677be6365f3
