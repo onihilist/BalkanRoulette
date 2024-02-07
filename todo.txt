@@ -8,3 +8,5 @@
     6. Make the func 'event_shot' shorter w/out repeat
     7. Check IDD into event_shot but find a solution for transfer this information.
     8. Split the 'event_shot' and make func for checking ammo_data, player/dealer_data
+    9. Update the function 'init_round_data' for having different numbers of rounds
+    10. Create the module 'difficult'
